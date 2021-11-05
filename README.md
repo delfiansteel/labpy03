@@ -1,5 +1,4 @@
 # labpy03
-# latihan1.py
 
 # Soal latihan1.py
 
